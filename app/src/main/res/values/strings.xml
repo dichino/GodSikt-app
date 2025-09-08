@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">IN2000_prosjekt</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYW5kZXJleXYiLCJhIjoiY2x0MXNiaDhlMTNwcTJybHo4emYyOTRlNyJ9.9zAUUDi2uJ63t05JV3Ed0w</string> <!--public token for MapBox-->
+
+    <!-- HomeScreen strings -->
+    <string name="logo_description">logo</string>
+    <string name="app_name_heading">GOD SIKT</string>
+    <string name="permission_needed">Tillattelsesbehov</string>
+    <string name="permission_message">Applikasjonen trenger presis plasseringstillatelse for å fungere</string>
+    <string name="start_button_text">START</string>
+
+    <!-- showMap strings -->
+    <string name="orientation_landscape">landscape</string>
+    <string name="orientation_portrait">portrait</string>
+    <string name="orientation_undefined">undefined</string>
+    <string name="map_ready">Kartet er klart!</string>
+    <string name="user_location">Ny posisjon: %1$s</string>
+    <string name="map_clicked">Kart klikket på: %1$s, %2$s</string>
+    <string name="buttons_for_map">knapper for kart</string>
+    <string name="sos_button_description">S O S, knapp 1 av 4</string>
+    <string name="sos_text_description">SOS</string>
+    <string name="info_button_description">Instruksjoner om app, knapp 2 av 4</string>
+    <string name="weather_button_description">Værmelding og farevarsler, knapp 3 av 4</string>
+    <string name="center_button_description">Sentrer skjerm, knapp 4 av 4</string>
+
+    <!-- SOSCard strings -->
+    <string name="sos_warning">ADVARSEL</string>
+    <string name="sos_confirm_message">Bekreft at du ønsker å dele din GPS posisjon med kystvakten.</string>
+    <string name="sos_confirmed_message">Kystvakten er varslet!</string>
+    <string name="confirm">BEKREFT</string>
+    <string name="cancel">Avbryt</string>
+    <string name="close">Lukk</string>
+
+    <!-- InformationCard strings -->
+    <string name="app_instructions">App instrukser</string>
+    <string name="app_instructions_intro">Her er alle knappene i appen og hva de gjør:</string>
+    <string name="sos_description">SOS tilkaller kystvakten i faresituasjoner</string>
+    <string name="center_description">Sentrerer kartet i forhold til posisjon</string>
+    <string name="about_app_description">Viser informasjon om appen</string>
+    <string name="close_button_text">Lukk</string>
+    <string name="map_button_description">Viser kartet</string>
+    <string name="sign_button_description">Viser viktige skilt og regler</string>
+    <string name="info_weather_button_description">Viser til været i valgt lokasjon (trykk på kart)</string>
+
+
+    <!-- NetworkStatusScreen strings -->
+    <string name="network_message">For å bruke denne skjermen må du koble til internett.</string>
+
+    <!-- WeatherCard Component Strings -->
+    <string name="fog">Tåke</string>
+    <string name="precipitation">Nedbør</string>
+    <string name="wind">Vind</string>
+    <string name="wind_direction">Vindretning</string>
+    <string name="position">posisjon</string>
+    <string name="weather_icon">vær ikon</string>
+
+
+
+    <!-- navbar strings -->
+    <string name="map_content_description">Kart</string>
+    <string name="map">Kart</string>
+    <string name="sign_content_description">Skilt</string>
+    <string name="sign">Skilt</string>
+    <string name="settings_content_description">Innstillinger</string>
+    <string name="settings">Innstillinger</string>
+
+    <!-- About Data Sources Screen strings -->
+    <string name="back_button_description">Tilbake</string>
+    <string name="about_data_sources">Om datakilder</string>
+    <string name="weather_heading">Vær</string>
+    <string name="weather_description">Data for vær er hentet fra MetAlerts API og Locationforecast API</string>
+    <string name="map_heading">Kart</string>
+    <string name="map_description">Kartene er hentet fra MapBox SDK og Geonorge</string>
+    <string name="sign_heading">Skilt</string>
+    <string name="sign_description">Informasjon om farvannsskiltene er hentet fra Kystverkets offisielle nettside om farvannsskilt</string>
+    <string name="increase_text_size">Øk tekststørrelse</string>
+    <string name="decrease_text_size">Reduser tekststørrelse</string>
+
+    <!-- About Screen strings -->
+    <string name="about">Om</string>
+    <string name="about_us">Om oss</string>
+    <string name="privacy">Personvern</string>
+    <string name="terms_and_conditions">Vilkår og Betingelser</string>
+
+    <!-- About us Screen strings -->
+    <string name="team_members_image_description">Medlemmer av Team God Sikt</string>
+    <string name="about_us_text">Vi er en gruppe engasjerte informatikk-studenter fra Universitetet i Oslo. Denne appen er et produkt av vårt engasjement i faget IN2000, våren 2024. \nTakk for at du velger å bruke vår app, vi håper den bidrar til ditt vann-eventyr!\n\nHiv o’hoi,\nTeam God Sikt ⚓ </string>
+
+    <!-- Privacy screen strings -->
+    <string name="coming_soon">Kommer snart!</string>
+
+    <!-- Terms and conditions screen -->
+    <string name="terms_1">Velkommen til God Sikt, en mobilapplikasjon som tilbyr verktøy og funksjoner for økt sikkerhet og effektivitet for båtbrukere. Tjenesten tilbys av God sikt, en gruppe elever som utvikler en første versjon av en Havvarsel applikasjon. Ved å bruke Tjenesten, aksepterer du disse vilkårene og betingelsene. Vennligst les dem nøye.</string>
+    <string name="terms_2">Tjenesten tilbys "som den er" og "som tilgjengelig". Vi gir ingen garantier, hverken uttrykt eller underforstått, med hensyn til nøyaktigheten eller fullstendigheten av Tjenesten eller innholdet på Tjenesten.</string>
+    <string name="terms_3">God Sikt skal ikke være ansvarlig for indirekte, tilfeldige, spesielle, følgeskader eller eksemplariske skader, inkludert, men ikke begrenset til, tap av fortjeneste, goodwill, bruk, data eller andre immaterielle tap.</string>
+
+    <!-- CategoryScreen strings -->
+    <string name="signs_and_rules">Skilt og regler</string>
+
+
+</resources>

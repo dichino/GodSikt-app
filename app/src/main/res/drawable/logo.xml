@@ -1,0 +1,20 @@
+<vector android:height="71.875dp" android:viewportHeight="276"
+    android:viewportWidth="192" android:width="50dp"
+    xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:name="animationGroup"
+        android:pivotX="96"
+        android:pivotY="138">
+        <path android:pathData="M118.28,182.28V113C139.49,104.12 154.43,83.16 154.43,58.76C154.43,26.36 128.08,0 95.67,0C63.27,0 36.91,26.36 36.91,58.76C36.91,83.16 51.86,104.12 73.07,113V182.28L0,122.79L11.63,252.91L30.55,229.54L95.67,276L160.8,229.54L179.72,252.91L191.35,122.79L118.28,182.28ZM95.67,87.39C79.89,87.39 67.05,74.55 67.05,58.76C67.05,42.98 79.89,30.13 95.67,30.13C111.46,30.13 124.3,42.98 124.3,58.76C124.3,74.55 111.46,87.39 95.67,87.39Z">
+            <aapt:attr name="android:fillColor">
+                <gradient android:endX="95.5" android:endY="347"
+                    android:startX="93.78" android:startY="-37.61" android:type="linear">
+                    <item android:color="#FFC1BCFF" android:offset="0"/>
+                    <item android:color="#FF090049" android:offset="1"/>
+                </gradient>
+            </aapt:attr>
+        </path>
+    </group>
+
+</vector>
